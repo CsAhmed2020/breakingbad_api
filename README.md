@@ -6,3 +6,6 @@ A new Flutter project fetch remote data from breakingBad Api.
 
 - [BreakingBad Api](https://breakingbadapi.com/api/)
 
+- Dart
+- Cubit
+
